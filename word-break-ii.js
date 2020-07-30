@@ -7,7 +7,6 @@
  */
 var wordBreak = function(s, wordDict) {
   if (!s) return []
-  if ()
   
   const ret = []
   const getWords = (_s) => {
